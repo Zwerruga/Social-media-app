@@ -7,8 +7,9 @@
  - Redux, react-redux, redux-thunk
  -   Socket.io, peer
  
-To run it locally, you need to add the *MongoDB cluster url to the .env* file.  `MONGODB_URL=YOUR_MONGODB_URL`
- And enter this command in the console:
+To run it locally, you need to add the *MongoDB cluster url to the .env* file.  
+`MONGODB_URL=YOUR_MONGODB_URL`
+And enter this command in the console:
 `$ npm run install-all && npm start`
  
  
