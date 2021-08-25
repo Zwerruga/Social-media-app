@@ -15,10 +15,6 @@ And enter this command in the console:<br/>
  
  
 ## 🔥 About project 👀
-**You need login or register to see...** 🔒
-
-![Authpage]( https://i.ibb.co/Sy2QCky/Peek-2021-08-17-13-54.gif)
-
 **Homepage** 🏠
 
 ![Homepage]( https://i.ibb.co/PYy1YMQ/Peek-2021-08-17-13-59.gif)
@@ -30,6 +26,10 @@ And enter this command in the console:<br/>
 **Manage your profile** 🛠️ + 🐬  = 🦈
  
 ![Profilepage]( https://i.ibb.co/qNbxcLV/Peek-2021-08-17-15-12.gif)
+
+**You need login or register to see...** 🔒
+
+![Authpage]( https://i.ibb.co/Sy2QCky/Peek-2021-08-17-13-54.gif)
 # 🔮 In Future ⏳
 -  Make it DRY and SOLID 🧹 🧼 🚿
 - Add testing of components react and api ☑️
